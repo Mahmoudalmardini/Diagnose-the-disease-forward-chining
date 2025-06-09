@@ -1,0 +1,5 @@
+Date: 2025-05-30 16:52:49.360851
+Symptoms: loss of smell, dry cough, fever
+Diagnosis: COVID-19
+Treatment: Isolate, rest, monitor oxygen, consult doctor
+----------------------------------------
